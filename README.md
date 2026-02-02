@@ -173,8 +173,7 @@ I'm always open to interesting projects, collaborations, and conversations! Feel
 
 - 💼 **LinkedIn:** [linkedin.com/in/ojus-mathur](https://linkedin.com/in/ojus-mathur)
 - 🐙 **GitHub:** [github.com/mathurojus](https://github.com/mathurojus)
-- 📧 **Email:** Get in touch via LinkedIn
-- 🐦 **Twitter:** [@ojus_mathur](https://twitter.com/ojus_mathur)
+- 📧 **Email:** [mathurojus17@gmail.com](mailto:mathurojus17@gmail.com)
 
 </div>
 
