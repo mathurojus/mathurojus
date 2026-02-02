@@ -120,11 +120,10 @@ Currently pursuing my **BTech in Artificial Intelligence & Data Science (AI-DS)*
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathurojus&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=mathurojus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mathurojus&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathurojus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathurojus&layout=compact&theme=dark&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathurojus&theme=dark&hide_border=true)](https://github.com/mathurojus)
 
 </div>
 
