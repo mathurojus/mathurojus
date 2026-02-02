@@ -1,15 +1,191 @@
-# 💫 About Me:
-I'm a driven Full Stack Developer and AI enthusiast, passionate about building impactful products across EdTech, FinTech, and HealthTech domains.<br><br>I specialize in React, Next.js, Python, and Rust, with a strong focus on translating innovative ideas into scalable digital solutions. Currently pursuing my BTech in Artificial Intelligence & Data Science (AI-DS) at GGSIPU, Delhi, I'm also exploring Blockchain and Web3 technologies to stay ahead in the tech landscape.<br><br>🏆 **Achievements:**<br>- Hackathon Winner at Pitch Mela (1M1B) - Elysian 3.0, GGSIPU<br>- Supercontributor in Hacktoberfest 2025 with 25+ open source PRs<br>- Web Development Intern at Distil Education & Technology Pvt. Ltd.<br><br>💼 **What I'm Currently Working On:**<br>- Building solutions for mental health support systems and tele-counseling platforms<br>- Contributing to open source projects across various tech stacks<br>- Developing innovative products in EdTech, FinTech, and HealthTech domains<br><br>🤝 **I'm Looking To Collaborate On:**<br>- Full stack web development projects<br>- AI/ML implementations and applications<br>- Blockchain and Web3 innovations<br>- Open source contributions<br><br>🌱 **I'm Currently Learning:**<br>- Advanced AI and Machine Learning techniques<br>- Blockchain technologies and smart contracts<br>- Web3 development frameworks<br>- Deep Learning with PyTorch<br><br>💡 **Ask Me About:**<br>- Full stack development (React, Next.js, Python, Rust)<br>- AI/ML projects and implementations<br>- Open source contributions and Hacktoberfest<br>- Hackathon experiences and winning strategies<br><br>⚡ **Fun Fact:**<br>I'm a Hackathon Winner who built MindLink - a secure, multilingual tele-counseling platform connecting gig/remote workers with trained counselors, winning 1st position at Elysian 3.0 Tech Fest!<br>
+<!-- Header with animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Ojus+Mathur;Full+Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner" alt="Typing animation" />
+</div>
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ojus-mathur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathurojus17@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojus-mathur)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathurojus)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ojus_mathur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathurojus)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mathurojus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mathurojus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathurojus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 About Me
+
+I'm a **driven Full Stack Developer** and **AI enthusiast**, passionate about building impactful products across **EdTech**, **FinTech**, and **HealthTech** domains. I specialize in creating scalable digital solutions using modern technologies.
+
+Currently pursuing my **BTech in Artificial Intelligence & Data Science (AI-DS)** at **GGSIPU, Delhi**, I'm actively exploring **Blockchain** and **Web3** technologies. As a **Supercontributor in Hacktoberfest 2025**, I'm deeply committed to open-source development and community contributions.
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🥇 | Achievement | Details |
+|:--:|:-----------|:---------|
+| 🎯 | **Hackathon Winner** | Pitch Mela (1M1B) at Elysian 3.0, GGSIPU |
+| 🔥 | **Supercontributor** | Hacktoberfest 2025 - 25+ Open Source PRs |
+| 🦈 | **Pull Shark** | GitHub Badge for Pull Request Contributions |
+| 💼 | **Intern** | Web Development at Distil Education & Technology |
+| 🌍 | **Community Contributor** | Multiple Open-Source Projects |
+
+</div>
+
+---
+
+## 💼 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 Building
+- 🏥 Mental health support systems
+- 💬 Tele-counseling platforms
+- 🎓 EdTech solutions
+- 💰 FinTech innovations
+- 🏢 HealthTech applications
+
+</td>
+<td width="50%">
+
+### 📚 Learning
+- 🤖 Advanced ML techniques
+- ⛓️ Blockchain & Smart Contracts
+- 🌐 Web3 Development
+- 🔥 Deep Learning with PyTorch
+- 🚀 Cloud Architecture (Azure, AWS)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Collaboration Interests
+
+```
+✅ Full Stack Web Development
+✅ AI/ML Implementations & Research
+✅ Blockchain & Web3 Projects
+✅ Open-Source Contributions
+✅ Hackathon Participation
+✅ EdTech & HealthTech Solutions
+```
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend & AI/ML
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathurojus&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathurojus&layout=compact&theme=dark&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathurojus&theme=dark&hide_border=true)](https://github.com/mathurojus)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🏥 MindLink - Tele-Counseling Platform
+**Winner at Elysian 3.0 Tech Fest (Pitch Mela)**
+- Secure, multilingual tele-counseling platform
+- Connecting gig/remote workers with trained counselors
+- Anonymous AI-matched sessions by language & culture
+- Mood tracking & early stress detection
+- Corporate integration for sponsored wellness access
+
+### 🎬 Movie Recommendation System
+**Machine Learning Project**
+- Collaborative filtering & content-based recommendation
+- Python with Jupyter Notebook
+- Real-world dataset implementation
+
+### 🧘 SereneMind App
+**Mental Wellness Application**
+- TypeScript-based interactive application
+- Wellness tracking & meditation features
+
+---
+
+## 💡 Quick Facts
+
+- 🎓 **BTech in AI-DS** at GGSIPU, Delhi
+- 🏆 **1st Position** at Pitch Mela, Elysian 3.0
+- 🔥 **Supercontributor** in Hacktoberfest 2025
+- 📍 Based in **New Delhi, India**
+- 🌱 Always learning new technologies
+- 🤝 Open to collaboration & mentorship
+- 💪 Passionate about solving real-world problems
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting projects, collaborations, and conversations! Feel free to reach out:
+
+- 💼 **LinkedIn:** [linkedin.com/in/ojus-mathur](https://linkedin.com/in/ojus-mathur)
+- 🐙 **GitHub:** [github.com/mathurojus](https://github.com/mathurojus)
+- 📧 **Email:** Get in touch via LinkedIn
+- 🐦 **Twitter:** [@ojus_mathur](https://twitter.com/ojus_mathur)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building the future, one line of code at a time." ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=mathurojus&label=Profile%20Views&color=0e75b6&style=flat)
+
+**Made with ❤️ by Ojus Mathur**
+
+</div>
