@@ -11,7 +11,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=14F195&center=true&vCenter=true&width=700&lines=⛓️+Web3+%26+Blockchain+Builder;🤖+AI%2FML+%26+Full+Stack+Developer;🏆+Hackathon+Winner+%7C+Open+Source+Contributor;🇮🇳+3×+Recognised+by+Govt.+of+India" alt="Typing SVG" />
+![Ojus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathurojus&theme=radical&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mathurojus&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathurojus&theme=radical&hide_border=true&layout=compact)
 
 </div>
 
