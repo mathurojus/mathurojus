@@ -44,7 +44,6 @@ Hackathons Entered  ────────────────────
 | 🎯 | **1st Place – Pitch Mela** | Elysian 3.0 Tech Fest, GGSIPU |
 | 🔥 | **Supercontributor** | Hacktoberfest 2025 — 5 Badge Club + 25+ Merged PRs |
 | 🦈 | **Pull Shark Badge** | GitHub — Notable PR Contribution Record |
-| 🤖 | **Smart India Hackathon** | National-Level Participant |
 | 💼 | **Web Dev Intern** | Distil Education & Technology Pvt. Ltd. |
 | 📊 | **Virtual Intern** | JP Morgan Chase • Deloitte Australia • Tata (via Forage) |
 
