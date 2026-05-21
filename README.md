@@ -11,11 +11,7 @@
 
 <br/><br/>
 
-![Ojus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathurojus&theme=radical&hide_border=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mathurojus&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathurojus&theme=radical&hide_border=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=14F195&center=true&vCenter=true&width=1000&lines=%E2%9B%93%EF%B8%8F+Web3+%26+Blockchain+Builder;%F0%9F%A4%96+AI%2FML+%26+Full+Stack+Developer;%F0%9F%8F%86+Hackathon+Winner+%7C+Open+Source+Contributor;%F0%9F%87%AE%F0%9F%87%B3+3%C3%97+Recognised+by+Govt.+of+India)](https://git.io/typing-svg)
 
 </div>
 
