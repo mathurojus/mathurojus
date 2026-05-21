@@ -179,9 +179,9 @@ Graph-database crime pattern analysis and prediction with visualization dashboar
 | Data Analytics Job Simulation | Deloitte Australia (Forage) | 2025 |
 | Software Engineering Job Simulation | JP Morgan Chase (Forage) | 2025 |
 | GenAI Powered Data Analytics | Tata (Forage) | 2025 |
-| Generative AI Mastermind | Outskill | — |
-| Python & SQL for Data Science | Scaler | — |
-| Docker & Kubernetes Fundamentals | Scaler | — |
+| Generative AI Mastermind | Outskill | 2025 |
+| Python & SQL for Data Science | Scaler | 2025 |
+| Docker & Kubernetes Fundamentals | Scaler | 2025 |
 
 ---
 
