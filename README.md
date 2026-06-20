@@ -17,21 +17,6 @@
 
 ---
 
-## ⚡ Why Solana?
-
-> *I don't just want to build on-chain — I want to build the infrastructure that makes on-chain feel inevitable.*
-
-I've been deep in Web3 for over a year — shipping a **decentralized crypto exchange**, building a **Solana Mobile on-chain game**, and filing smart-contract-powered grievance systems. Solana's speed and mobile-first ecosystem are where I want to go *all in*.
-
-```
-Solana Projects Built  ──────────────────────────────  2
-Smart Contracts Written ─────────────────────────────  5+
-Blockchain Ecosystems Explored ──────────────────────  3 (Ethereum, Solana, Polygon)
-Hackathons Entered  ──────────────────────────────────  4+
-```
-
----
-
 ## 🏆 Wins & Recognition
 
 <div align="center">
