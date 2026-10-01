@@ -34,7 +34,7 @@ I care about tested, evaluated models, clean Git workflows and using AI tools wi
 <div align="center">
 
 <!-- Replace the URL below with the link GitHub gives you after dragging your generated GIF into the editor -->
-![Space shooter built from my contribution graph](PASTE_YOUR_GITHUB_IMAGE_URL_HERE)
+![Space shooter built from my contribution graph](https://github.com/mathurojus)
 
 *Every square is an enemy. The ship is flying through my real contribution history.*
 
