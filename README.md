@@ -4,7 +4,7 @@
 
 **AI/ML Engineer · Full-Stack Developer · Web3 Builder**
 
-B.Tech, Artificial Intelligence & Data Science — GGSIPU Delhi (2028) · CGPA 8.85/10
+B.Tech, Artificial Intelligence & Data Science — GGSIPU Delhi (2028) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojus-mathur)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojusmathur17@gmail.com)
